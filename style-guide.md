@@ -1,5 +1,8 @@
 Style Guide
 ===========
+
+Naming Conventions
+------------------
 * integration: team or product
 * deployment: host or model
 * repo: integration-deployment or product
@@ -11,6 +14,8 @@ Style Guide
 * fork: user or master or dev or release
 * branch: feature/fork
 
+Tips
+----
 * commit early and often
 * group logical changes in a commit
 * messages should be descriptive yet succint
