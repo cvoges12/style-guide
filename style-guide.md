@@ -11,11 +11,11 @@ Style Guide
 * fork: user or master or dev or release
 * branch: feature/fork
 
-commit early and often
-group logical changes in a commit
-messages should be descriptive yet succint
-explain each commit below in the editor
-do not rewrite history
-squash and reorder branches before merging
-fetch and rebase before merging
-merge without fast-forward
+* commit early and often
+* group logical changes in a commit
+* messages should be descriptive yet succint
+* explain each commit below in the editor
+* do not rewrite history
+* squash and reorder branches before merging
+* fetch and rebase before merging
+* merge without fast-forward
