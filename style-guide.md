@@ -10,7 +10,7 @@ Style Guide
 * release: #.#.# aka stable.feature.patch
 * fork: user or master or dev or release
 * branch: feature/fork
-a
+
 commit early and often
 group logical changes in a commit
 messages should be descriptive yet succint
