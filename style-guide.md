@@ -9,7 +9,7 @@ Naming Conventions
 * #: instance
 * location: country-city-area
 * hostname: repo#.location.provider.domain.tld
-* project: repo.feature
+* project (hiearchical): integration.deployment.feature or product.feature
 * release: #.#.# aka stable.feature.patch
 * fork: user or master or dev or release
 * branch: feature/fork
